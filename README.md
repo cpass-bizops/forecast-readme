@@ -33,7 +33,7 @@ A standard pipeline export (CSV) from Salesforce or any CRM, with columns such a
 
 ## Access
 
-The full model and code live in a private repository. Comment FORECAST on my LinkedIn post and I will send you access.
+The full model and code live in a private repository. Message me on LinkedIn and I will send you access.
 
 ---
 
